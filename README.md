@@ -39,10 +39,6 @@ AWS Certified - Data Engineering & Analytics
 Azure Certified - Data Engineer Associate
 
 
- ### 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikitha-reddy3187)
-   
-
 🎯 Open to Data Engineering opportunities | Currently enhancing AI/ML data infrastructure
 
 
