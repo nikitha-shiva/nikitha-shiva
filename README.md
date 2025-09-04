@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Nikitha Shiva! 👋
 
-<!--
-**nikitha-shiva/nikitha-shiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Senior Data Engineer | AWS Specialist | 5+ Years Experience
 
-Here are some ideas to get you started:
+🌟 **Designing scalable data pipelines** processing 500M+ daily records  
+☁️ **AWS & Azure expert** with production lakehouse architectures  
+📊 **15% data quality improvement** through automated governance  
+🤖 **AI/ML integration** for fraud detection and customer analytics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Tech Stack
+```python
+expertise = {
+    'cloud_platforms': ['AWS (S3, Glue, Redshift, Lambda, Kinesis)', 'Azure (Data Factory, Databricks)'],
+    'big_data': ['Apache Spark', 'Hadoop', 'Kafka', 'Airflow', 'Hive'],
+    'databases': ['Snowflake', 'PostgreSQL', 'MySQL', 'MongoDB', 'BigQuery'],
+    'languages': ['Python (Pandas, PySpark)', 'SQL (Advanced)', 'Java'],
+    'ml_tools': ['TensorFlow', 'Scikit-Learn', 'XGBoost', 'PyTorch']
+}
+
+📈 Recent Achievements
+
+⚡ 60ms latency reduction in real-time streaming pipelines
+🛡️ 20% reduction in data breaches through governance automation
+🎯 90% accuracy in ML customer retention models
+💰 35% faster model training with optimized feature engineering
+🔄 15% performance drift reduction with automated retraining
+
+🌟 Featured Projects
+
+🏗️ AWS Modern Data Lake - Enterprise lakehouse with Terraform
+🎵 Spotify Analytics Pipeline - 500M+ records ETL system
+🌊 Real-Time Streaming Platform - Kafka + Spark architecture
+📄 Document Intelligence Pipeline - Excel/PDF to analytics
+
+🎓 Education & Certifications
+
+MS Computer Science - University of Central Oklahoma (2024)
+AWS Certified - Data Engineering & Analytics
+Azure Certified - Data Engineer Associate
+
+
+ ### 🔗 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikitha-reddy3187)
+   
+
+🎯 Open to Data Engineering opportunities | Currently enhancing AI/ML data infrastructure
+
+
+
+
+
