@@ -1,6 +1,6 @@
 # Hi there, I'm Nikitha Shiva! 👋
 
-## 🔧 Senior Data Engineer | AWS Specialist | 5+ Years Experience
+## 🔧 Senior Data Engineer | 5+ Years Experience
 
 🌟 **Designing scalable data pipelines** processing 500M+ daily records  
 ☁️ **AWS & Azure expert** with production lakehouse architectures  
